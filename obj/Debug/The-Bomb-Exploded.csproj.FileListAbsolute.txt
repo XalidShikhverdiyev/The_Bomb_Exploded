@@ -1,0 +1,10 @@
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\bin\Debug\The-Bomb-Exploded.exe.config
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\bin\Debug\The-Bomb-Exploded.exe
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\bin\Debug\The-Bomb-Exploded.pdb
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The-Bomb-Exploded.csprojAssemblyReference.cache
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The_Bomb_Exploded.Form1.resources
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The_Bomb_Exploded.Properties.Resources.resources
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The-Bomb-Exploded.csproj.GenerateResource.cache
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The-Bomb-Exploded.csproj.CoreCompileInputs.cache
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The-Bomb-Exploded.exe
+C:\Users\xalid\source\repos\The-Bomb-Exploded\The-Bomb-Exploded\obj\Debug\The-Bomb-Exploded.pdb
